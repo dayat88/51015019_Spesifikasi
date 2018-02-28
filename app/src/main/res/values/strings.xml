@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">Spesifikasi</string>
+    <string name="f5">
+		NETWORK : GSM/HSPA/LTE
+DISPLAY : LTPS IPS LCD,1080x2160 PIXELS,CORNING GORILA GLASS 5,ColorOS 3.2
+PLATFORM: ANDROID 7.1.1,MEDIATEK MT6763T Helio P23,Octa-core 2.5 GHz Cortex-A53
+MEMORY  : MicroSD,UP TO 256 GB,INTERNAL 64GB,6GB RAM,INTERNAL 32GB,4GB RAM
+CAMERA  : PRIMARY 16MP,SECONDARY 20MP
+SOUUND  : VIBRATION;MP3,WAV ringtones,Loudspeaker YES,3.5mm jack YES
+FEATURES: FINGERPRINT(DI BELAKANG),FACE LOCK,ACCELEMETER,PROXIMITY,COMPASS
+BATTERY : Non-removable Li-Ion 3200 mAh battery
+</string>
+
+    <string name="ipx">
+        NETWORK : GSM/HSPA/LTE
+DISPLAY : Super AMOLED,1125x2436 pixels,Scratch-resistant glass,oleophobic coating
+PLATFORM: iOS 11.1.1, up to iOS 11.2.5,Apple A11 Bionic,Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral)
+MEMORY  : NO SDcard Slot,INTERNAL 64/256 GB, 3 GB RAM
+CAMERA  : PRIMARY 12MP,SECONDARY 7MP
+SOUUND  : VIBRATION;MP3,WAV ringtones,Loudspeaker YES,3.5mm jack YES
+FEATURES: Face ID, accelerometer, gyro, proximity, compass, barometer
+BATTERY : Non-removable Li-Ion 2716 mAh battery (10.35 Wh)
+    </string>
+
+    <string name="mi6">
+        NETWORK : GSM/HSPA/LTE
+DISPLAY : IPS LCD,1080x1920 pixels,Corning Gorilla Glass 4-MIUI 8.0
+PLATFORM: Android 7.1.1,Qualcomm MSM8998 Snapdragon 835,Octa-core (4x2.45 GHz Kryo dan 4x1.9 GHz Kryo)
+MEMORY  : NO SDcard Slot,INTERNAL 64/128 GB,6GB RAM
+CAMERA  : PRIMARY 12MP,SECONDARY 8MP
+SOUUND  : VIBRATION;MP3,WAV ringtones,Loudspeaker YES,3.5mm jack - Active noise cancellation with dedicated mic-Type-C to 3.5 mm headphone jack adapter
+FEATURES: Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer
+BATTERY : Non-removable Li-Po 3350 mAh battery
+	</string>
+
+    <string name="n8">
+NETWORK : GSM/HSPA/LTE
+DISPLAY : IPS LCD,1440x2560 pixels,Corning Gorilla Glass 5,Always-on display
+PLATFORM: Android 7.1.1,Qualcomm MSM8998 Snapdragon 835,Octa-core (4x2.45 GHz Kryo dan 4x1.8 GHz Kryo)
+MEMORY  : NO SDcard Slot,INTERNAL 64/128 GB,6GB RAM
+CAMERA  : PRIMARY Dual:13MP,SECONDARY 13MP
+SOUND   : VIBRATION;MP3,WAV ringtones,Loudspeaker YES,3.5mm jack Yes
+FEATURES: Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer
+BATTERY : Non-removable Li-Ion 3090 mAh battery
+    </string>
+
+    <string name="s8">
+        NETWORK : GSM/HSPA/LTE
+DISPLAY : Super AMOLED,1440x2960 pixels,Corning Gorilla Glass 5,HDR10 compliant,3D Touch (home button only),Always-on display
+PLATFORM: Android 7.0 up to 8.0,Exynos 8895 Octa - EMEA,Octa-core (4x2.3 GHz Mongoose M2 dan 4x1.7 GHz Cortex-A53) - EMEA
+MEMORY  : microSD, up to 256 GB,INTERNAL 64GB,4GB RAM
+CAMERA  : PRIMARY Dual:12MP,SECONDARY 8MP
+SOUND   : VIBRATION;MP3,WAV ringtones,Loudspeaker YES,3.5mm jack Yes
+FEATURES: Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2
+BATTERY : Non-removable Li-Ion 3000 mAh battery (11.55 Wh)
+	</string>
+
+    <string name="v7">
+NETWORK : GSM/HSPA/LTE
+DISPLAY : IPS LCD,720x1440 pixels,Corning Gorilla Glass 4,Funtouch OS 3.2
+PLATFORM: Android 7.1.1,Qualcomm SDM450 Snapdragon 450,Octa-core 1.8 GHz Cortex-A53
+MEMORY  : microSD, up to 256 GB,INTERNAL 64GB,4GB RAM
+CAMERA  : PRIMARY Dual:16MP,SECONDARY 24MP
+SOUND   : VIBRATION;MP3,WAV ringtones,Loudspeaker YES,3.5mm jack Yes
+FEATURES: Fingerprint (front-mounted), accelerometer, gyro, proximity, compass
+BATTERY : Non-removable Li-Ion 3225 mAh battery
+	</string>
+
+    <string name="alien">
+        Prosesor:Intel Core i7-6700HQ/7700HQ
+Memori:DDR4 16 GB
+Ruang Penyimpanan:HDD 1 TB
+Sistem:Operasi	Windows 10 Home
+Layar:17,3 inch Full HD IPS anti-glare, Tobii IR eye-tracking
+Grafis:NVIDIA GeForce GTX 1060
+Port:3x USB 3.0, Thunderbolt, HDMI 2.0, Mini DisplayPort, audio out, headphone, power/DC-in jack, LAN (RJ-45), Alienware Graphics Amplifier
+Audio:Alienware Sound Center, 7.1 Digital Audio out
+Baterai:68 Watt-hours, Li-ion
+Kamera:Full HD webcam
+Konektivitas:Wireless 802.11 ac, Bluetooth 4.1, Gigabit Ethernet
+Dimensi:16,70 x 13,10 x 1,18 inch
+Berat:4,42 kg
+    </string>
+
+    <string name="rog">
+		ASUS ROG ZEPHYRUS (GX501)
+Operating System:Microsoft Windows 10 Creator Update (64-bit)
+Processor:Intel Core i7 77700HQ (Base 2,9 GHz/Turbo Boost 3,8 GHz)
+Motherboard:Intel HM175 Chipset-based
+Memory:24 GB (16+8 GB) DDR4 @2400 MHz (Dual Channel)
+Graphics:NVIDIA GeForce GTX 1080 8 GB GDDR5X with Max-Q Design
+Display:15,6 inch @1920 x 1080 pixels @120 Hz
+Storage:1 TB SSD M.2 NVMe PCIe 3.0 x4
+Wireless:802.11a/b/g/n/ac dan Bluetooth V4.2 (by Intel Dual Band Wireless-AC 8265)
+USB 2.0/1.1	0
+USB 3.0/2.0	4 (Type-A Connector)
+USB 3.1	0 (Type-C Connector)
+USB 3.1/Thunderbolt 3	1 (Type-C Connector)
+eSATA/USB 3.0 Combo	0
+Display Port	0
+HDMI	1
+DVI	0
+D-Sub	0
+Ethernet/RJ45	Not Available
+Audio In/Out	Microphone Jack dan Headphone Jack
+Optical Drive	Not Available
+Battery	50 Wh
+Dimensions (mm)	379 x 262 x 16,9~17,9 (Width x Depth x Height)
+Weight (grams)	2233 (Notebook) 674 (Charger)
+	</string>
+
+    <string name="rogstrix">
+		Ukuran:(L x W x H mm)	390 x 266 x 23.5 mm
+Grafis:NVIDIA GeForce GTX 970M 6GB GDDR5
+Layar:15.6 inchi,Layar IPS LCD dengan LED backlight,Full HD ( 1920 x 1080 )
+OS:Windows 10 Home
+Processor:Intel® Core™ i7 6700HQ Processor
+Memori/RAM:16GB DDR4 2133 MHz,1TB HDD + 256GB PCIE SSD
+Koneksi	Bluetooth, WiFi
+Webcam:Ya
+HDMI:Ya
+Audio:Support Windows 10 Cortana with Voice,ASUS SonicMaster Premium Technology
+Slot:
+1 x COMBO audio jack
+1 x Microphone-in/Headphone-out jack
+1 x USB 3.1 TYPE C port(s)
+3 x USB 3.0 port(s)
+1 x RJ45 LAN Jack for LAN insert
+1 x mini Display Port
+1 x SD card reader
+1X AC adapter plug
+Baterai:4 Cells Battery,Up to 6 Hours web browsing
+	</string>
+
+    <string name="razer">
+	Konektivitas	802.11a/b/g/n/ac, Bluetooth 4.1
+Processor	Intel Core i7
+RAM	16 GB
+Ukuran Layar	14 inch
+Sistem Operasi	Windows 10 Family
+Resolusi Display	1920 x 1080 - Full HD
+VGA	nVidia GeForce 6 GB
+Kapasitas Penyimpanan	500 - 999 GB
+Tipe Layar	Non Touch Screen
+Tipe Laptop	Laptop Gaming
+Tipe Hard Drive	SSD
+Brand	Razer
+Warna	Black
+Berat Produk	1.89 kg
+Kategori Produk	Laptop
+Baterai	Built-in 70Wh rechargeable lithium-ion polymer
+Audio	Built-in stereo speakers, Array microphone, Dolby Digital Plus Home Theater Edition, 7.1 Codec support (via HDMI)
+Fitur Lainnya	2.0 MP webcam,
+Interfaces	Thunderbolt 3 (USB-C), USB 3.0 port x3 (SuperSpeed), HDMI 2.0 video and audio output, 3.5mm headphone/microphone combo part
+</string>
+
+    <string name="origin">
+		Ukuran:0,78 x 15,35 x 10,47 inch
+Berat:£ 4,2
+Layar:15.6 inch Resolusi 1920 x 1080 EDP Lebar View Angle Matte
+Processor:Intel Core i7-4710HQ,Quad-Core 2.50GHz(3.50GHz TurboBoost),6MB Cache
+Grafis:NVIDIA GeForce GTX 970M GDDR5 6GB
+RAM:16GB 1600MHz DDR3L (2 x 8GB)
+Hardisk:2x 128GB SATA SSD M.2 + 1TB 7200RPM
+SD Card:SD 4.0 (XC / HC)
+Kamera :Built-in Camera 720P Video
+Audio  :Creative Sound Blaster X-Fi Surround 5.1 Pro USB, THX TruStudio Pro
+Koneksi:Intel PRO Wireless AC 7260 + BT Wireless LAN Combo
+Tipe USB:SuperSpeed \u200b\u200b USB 3.0
+OS:Windows 10
+	</string>
+
+    <string name="yoga">
+		Tipe Laptop :Notebook
+HARDWARE:Intel Core i3-7130U generasi ke-7 Kaby Lake,Model 7130U, Kecepatan 2.7 GHz
+MEMORY:RAM 8 GB Tipe Memory DDR4, HDD 1 TB
+GRAPHIC:VGA Intel HD Graphics 620
+OS:WINDOWS 10
+SCREEN:Ukuran Layar:14, Resolusi 1920x1080
+DESIGN:Berat 1,74 KG,Warna GREY
+ADDITIONAL:DVD-RW TIDAK, Kamera YA, Bluetooth YA
+	</string>
+
+</resources>
